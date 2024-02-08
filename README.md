@@ -1,11 +1,11 @@
 <h2 align="center">Hi , I'm Shamnad P</h2>
 <h3 align="center">A passionate django web-developer </h3>
 
-<!--<h4 align="center">Connect with me:</h4>
+<h4 align="center">Connect with me:</h4>
 <p align="center">
-<a href="in/shamnad-p-b92992234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="30" /></a>
-</p> -->
 <a href="https://www.linkedin.com/in/shamnad-p-5803132aa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+</p> 
+
 
 
 <h4 align="center">Languages and Tools:</h4>
